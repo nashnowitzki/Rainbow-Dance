@@ -1,2 +1,3 @@
 step left
 step right
+do the dance
